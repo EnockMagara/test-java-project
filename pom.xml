@@ -74,6 +74,12 @@
             <artifactId>slf4j-api</artifactId>
             <version>1.7.25</version>
         </dependency>
+        <!-- Add a new dependency to pom.xml -->
+        <dependency>
+            <groupId>com.example</groupId>
+            <artifactId>new-library</artifactId>
+            <version>1.0.0</version>
+        </dependency>
         
         <!-- Test dependency with breaking changes -->
         <dependency>
