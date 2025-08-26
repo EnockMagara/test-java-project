@@ -55,6 +55,7 @@
             <version>5.0.0.RELEASE</version>
         </dependency>
         
+        
         <!-- Dependency that doesn't exist -->
         <dependency>
             <groupId>com.nonexistent</groupId>
