@@ -57,7 +57,7 @@
         </dependency>
 
         
-        
+
         <!-- Dependency that doesn't exist -->
         <dependency>
             <groupId>com.nonexistent</groupId>
@@ -118,5 +118,6 @@
                 <version>2.22.2</version>
             </plugin>
         </plugins>
+        
     </build>
 </project>
